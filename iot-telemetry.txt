@@ -1,0 +1,35 @@
+# Filtered Custom List
+# Sources
+# https://gist.github.com/hkamran80/779019103fcd306979411d44c8d38459
+
+#Random TV Links
+
+apicache.vudu.com
+cdns-content.dzcdn.net
+cert-test.sandbox.google.com
+drscdn.500px.org
+get.geo.opera.com
+googleads.g.doubleclick.net
+hbbtv.redbutton.de
+hbbtv.zdf.de
+itv.ard.de
+nbc-jite.nbcuni.com
+tv-static.scdn.co
+tv.deezer.com
+xml.opera.com
+
+
+# Netflix
+customerevents.netflix.com
+nrdp.nccp.netflix.com
+
+# Fire TV
+api.eu.amazonalexa.com
+arcus-uswest.amazon.com
+aviary.amazon.de
+avs-alexa-19-eu.amazon.com
+dcape-na.amazon.com
+dp-gw-na.amazon.com
+ftv-smtv.ntp-fireos.com
+mads-eu.amazon.com
+mas-ext-eu.amazon.com
