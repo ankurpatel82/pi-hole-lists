@@ -33,3 +33,6 @@ dp-gw-na.amazon.com
 ftv-smtv.ntp-fireos.com
 mads-eu.amazon.com
 mas-ext-eu.amazon.com
+
+#Harmony Remote
+svcs.myharmony.com
